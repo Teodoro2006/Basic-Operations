@@ -1,0 +1,8 @@
+Algoritmo Numeroiguais
+Variaveis n1, n2
+
+              Escrever("Digite um número inteiro")
+              Ler("n1")
+              Escrever("Digite outro número inteiro")
+              Ler("n2")
+              
