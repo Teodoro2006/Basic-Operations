@@ -1,0 +1,14 @@
+Algoritmo EuroMilhões
+Variaveis numero1, numero2, numero3, numero4, numero5, estrela1, estrela2
+
+Início
+         escrever("Premio do EuroMilhões")
+         escrever("Números")
+         Números = [gerar entre (1,51) 5 numeros(numero1, numero2, numero3, numero4, numero5)] 
+         escrever(Números)
+         Estrelas = [gerar entre (1,13) 2 numeros(estrela1, estrela2)]
+         escrever(Estrelas)
+Fim
+          
+
+ 

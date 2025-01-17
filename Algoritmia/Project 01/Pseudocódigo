@@ -1,0 +1,17 @@
+Variáveis n1, n2, soma, subtração, multiplicação, divisão: inteiro;
+Início
+        Escrever("Digite um número inteiro");
+        Ler(n1);
+        Escrever("Digite outro número inteiro");
+        Ler(n2);
+        
+        soma <--(a + b)
+        subtração <--(a - b)
+        multiplicação <--(a * b)
+        divisão <--(a / b)
+
+        Escrever("soma": soma)
+        Escrever("subtração": subtração)
+        Escrever("multiplicação": multiplicação)
+	Escrever("divisão": divisão) 
+Fim.										

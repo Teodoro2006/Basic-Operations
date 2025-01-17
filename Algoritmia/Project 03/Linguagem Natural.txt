@@ -1,0 +1,11 @@
+Início
+Gerar um número pseudoaleatório entre 1 e 50 e armazenar numa variavel (numero1)
+Gerar um número pseudoaleatório entre 1 e 50 e armazenar numa variavel (numero2)
+Gerar um número pseudoaleatório entre 1 e 50 e armazenar numa variavel (numero3)
+Gerar um número pseudoaleatório entre 1 e 50 e armazenar numa variavel (numero4)
+Gerar um número pseudoaleatório entre 1 e 50 e armazenar numa variavel (numero5)
+Gerar um número pseudoaleatório entre 1 e 12 e armazenar numa variavel (estrela1)
+Gerar um número pseudoaleatório entre 1 e 50 e armazenar numa variavel (estrela2)
+Escrever no ecrã: ("Prémio do EuroMilhões")
+Escrever no ecrã: numero1 numero2 numero3 numero4 numero5 + estrela1 estrela2
+Fim.
