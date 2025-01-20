@@ -1,0 +1,12 @@
+Variaveis: comprimento, largura
+Início
+Escrever("Introduza o comprimento do retângulo: ")
+Escrever("Introduza a largura do retângulo: ")
+
+comprimento = 0
+largura = 0
+
+area = (comprimento * largura)
+
+escrever("A area do retângulo é:"area)
+
