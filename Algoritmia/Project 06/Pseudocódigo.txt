@@ -1,0 +1,17 @@
+Algoritmia 
+Variaveis: SDAC, CD, IMEI, ELF
+Início
+      Escrever("Digite o nome do aluno")
+      Escrever("Introduzir a média do aluno em" ELF)
+      Escrever("Introduzir a média do aluno em" IMEI)
+      Escrever("Introduzir a média do aluno em" CD)
+      Escrever("Introduzir a média do aluno em" SDAC)
+
+Calcular = (SDAC + IMEI + ELF + CD / 4)
+
+se( calcular >= 9,5)
+  Escrever("O aluno transitou!!")
+senão:
+ Escrever("o Aluno não transitou!!")
+Fim.
+

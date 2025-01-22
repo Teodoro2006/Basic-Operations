@@ -4,8 +4,6 @@
       Observação....: Calcular a area de um retângulo
 '''
 
-
-
 def calcular_area_retangulo(comprimento: float, largura: float) -> float:
     return comprimento * largura
 
