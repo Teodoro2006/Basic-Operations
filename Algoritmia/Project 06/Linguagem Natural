@@ -1,0 +1,14 @@
+Início
+Dígite o nome do aluno
+Introduzir e Apresentar a média do aluno em ELF
+Ler a média
+Introduzir e Apresentar a média do aluno em SDAC
+Ler a média
+Introduzir e Apresentar a média do aluno em CD
+Ler a média 
+introduzir e Apresentar a média do aluno em IMEI
+Ler a média
+Calcular a média do aluno dividindo por 4
+Se a média for superior ou igual a 9,5 saltar para o ponto 14 e escrever ("O "aluno"transitou!!")
+Se a média for inferior a 9,5 saltar para o Fim e escrever ("O "aluno"não transitou")
+Fim.

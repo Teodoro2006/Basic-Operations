@@ -1,0 +1,12 @@
+Algoritmia
+Variaveis: 2  
+Início       
+           Escrever("Introduza um número inteiro:");
+           Ler(numero);
+
+           Se() Então
+            Escrever("O número é par")
+           Senão
+            Escrever("O número é impar")
+           Fim de Se
+Fim

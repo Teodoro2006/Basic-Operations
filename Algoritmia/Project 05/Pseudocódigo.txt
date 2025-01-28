@@ -8,5 +8,5 @@ largura = 0
 
 area = (comprimento * largura)
 
-escrever("A area do retângulo é:"area)
+Escrever("A area do retângulo é:"area)
 

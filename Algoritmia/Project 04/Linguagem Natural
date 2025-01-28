@@ -1,0 +1,8 @@
+Início
+Apresentar no ecrã: Introduza um número inteiro
+Armazenar numa variável o número inteiro introduzido no ponto 2 
+Se o resto da divisão por 2 for 0 saltar para 6
+Senão saltar para 7
+Apresentar no ecrã: O número introduzido é par e depois saltar para o fim 
+Apresentar no ecrã: O número introduzido é impar
+Fim

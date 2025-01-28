@@ -16,6 +16,6 @@ CD = float(input("Introduzir a média do em CD: "))
 media = (SDAC + IMEI + CD + ELF / 4 );
 
 if [media > 9.5]:
-            print(f"O {aluno} transitou!!")
+            print(f"O aluno {aluno} transitou!!")
 else: 
-            print(f"O {aluno} não transitou!!")
+            print(f"O aluno {aluno} não transitou!!")
