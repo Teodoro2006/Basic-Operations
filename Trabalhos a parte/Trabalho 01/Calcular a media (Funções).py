@@ -9,15 +9,15 @@ def calcularMedia(nota1 = 13, nota2 = 16, nota3 = 19):
          return(nota1 + nota2 + nota3 / 3)
     else:
         return -1
-
+# Input
 nota1 = float(input("Introduza a nota1: "))
 
 nota2 = float(input("Introduza a nota2: "))
 
 nota3 = float(input("Introduza a nota3: "))
-
+# Processamento
 print(nota1 + nota2 + nota3 / 3)
 
 media = calcularMedia(nota1, nota2, nota3)
-
+# Output
 print(f"A nota final do aluno é {media}.")
