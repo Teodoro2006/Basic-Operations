@@ -9,7 +9,7 @@ lista = ["Ana", "Jorge", "Isabel", "José"]
 for item in lista:
     print(item)
 
-palavra = "python"
+palavra = str(input("Introduza uma palavra: "))
 
 for letra in palavra: 
         print(letra)
