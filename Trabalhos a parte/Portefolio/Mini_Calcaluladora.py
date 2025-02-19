@@ -3,6 +3,18 @@
      Data...........: 17/02/2025
      Observações....: Mini Calculadora
 '''
+import os
+import platform
+import time
+
+def limparEcra():
+    sistema = platform.system()
+
+    if sistema == "Windows":
+        os.system("cls") # Windows
+    else:
+        os.system("clear") # Linux/Mac
+
 # Contéudo do Menu
 def calculadora():
    print("****  MENU  ****")
