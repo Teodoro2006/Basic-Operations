@@ -6,6 +6,8 @@
 x = 7
 
 def procedimento():
+    global x
+    x = 40
     print(x)
 
 def procedimento1():
